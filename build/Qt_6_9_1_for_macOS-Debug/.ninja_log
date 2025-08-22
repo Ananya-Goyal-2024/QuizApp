@@ -1,0 +1,12 @@
+# ninja log v6
+4	33	1755836442579070917	QuizApp_autogen/timestamp	afd86144f804794f
+1	11	1755836290934646520	CMakeFiles/clean.additional	8871ad2cbe151288
+639	698	1755836332985776206	CMakeFiles/QuizApp.dir/QuizApp_autogen/mocs_compilation.cpp.o	7a57c7c4246e1c47
+11	16	1755836290944585148	clean	803bd6fa729ad707
+49	1105	1755835744354868094	CMakeFiles/QuizApp.dir/mainwindow.cpp.o	1d131df31eeb91b0
+1641	1833	1755836333987316209	QuizApp	a5ebf5aa158ba237
+640	1641	1755836332985972532	CMakeFiles/QuizApp.dir/QuizApp_project.cpp.o	258291470f202846
+3	207	1755836444773896009	build.ninja	6b75a0657f51cf26
+4	33	1755836442579070917	/Users/ananyagoyal/Downloads/cpp+oops_project/QuizApp/build/Qt_6_9_1_for_macOS-Debug/QuizApp_autogen/timestamp	afd86144f804794f
+4	33	1755836442579070917	QuizApp_autogen/mocs_compilation.cpp	afd86144f804794f
+4	33	1755836442579070917	/Users/ananyagoyal/Downloads/cpp+oops_project/QuizApp/build/Qt_6_9_1_for_macOS-Debug/QuizApp_autogen/mocs_compilation.cpp	afd86144f804794f

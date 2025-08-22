@@ -1,0 +1,5 @@
+/Users/ananyagoyal/Downloads/cpp+oops_project/QuizApp/build/Qt_6_9_1_for_macOS-Debug/CMakeFiles/QuizApp.dir
+/Users/ananyagoyal/Downloads/cpp+oops_project/QuizApp/build/Qt_6_9_1_for_macOS-Debug/CMakeFiles/edit_cache.dir
+/Users/ananyagoyal/Downloads/cpp+oops_project/QuizApp/build/Qt_6_9_1_for_macOS-Debug/CMakeFiles/rebuild_cache.dir
+/Users/ananyagoyal/Downloads/cpp+oops_project/QuizApp/build/Qt_6_9_1_for_macOS-Debug/CMakeFiles/QuizApp_autogen_timestamp_deps.dir
+/Users/ananyagoyal/Downloads/cpp+oops_project/QuizApp/build/Qt_6_9_1_for_macOS-Debug/CMakeFiles/QuizApp_autogen.dir
