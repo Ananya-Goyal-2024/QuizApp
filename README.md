@@ -27,11 +27,15 @@ The project demonstrates the use of classes, file handling, and modular programm
 
 
 QuizApp/
-├── CMakeLists.txt
-├── QuizApp_project.cpp
-├── build/ # build files (auto-generated, not pushed to GitHub)
-├── README.md
-└── (other helper files)
+  CMakeLists.txt
+
+  QuizApp_project.cpp
+
+  build/ # build files (auto-generated, not pushed to GitHub)
+
+  README.md
+
+  (other helper files)
 
 
 ---
@@ -71,6 +75,8 @@ Store scores in a database
 ### 👩‍💻 Author
 
 Ananya Goyal
+
 📌 LinkedIn : https://www.linkedin.com/in/ananya-goyal-824690288/?originalSubdomain=in
+
 📌 GitHub  :  https://github.com/Ananya-Goyal-2024
 
